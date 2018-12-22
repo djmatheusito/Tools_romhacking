@@ -1,0 +1,7 @@
+C:\Users\djmat\source\repos\AA_UNRLE\AA_UNRLE\bin\Debug\AA_UNRLE.exe.config
+C:\Users\djmat\source\repos\AA_UNRLE\AA_UNRLE\bin\Debug\AA_UNRLE.exe
+C:\Users\djmat\source\repos\AA_UNRLE\AA_UNRLE\bin\Debug\AA_UNRLE.pdb
+C:\Users\djmat\source\repos\AA_UNRLE\AA_UNRLE\obj\Debug\AA_UNRLE.csprojResolveAssemblyReference.cache
+C:\Users\djmat\source\repos\AA_UNRLE\AA_UNRLE\obj\Debug\AA_UNRLE.csproj.CoreCompileInputs.cache
+C:\Users\djmat\source\repos\AA_UNRLE\AA_UNRLE\obj\Debug\AA_UNRLE.exe
+C:\Users\djmat\source\repos\AA_UNRLE\AA_UNRLE\obj\Debug\AA_UNRLE.pdb

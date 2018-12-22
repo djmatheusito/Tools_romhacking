@@ -1,0 +1,7 @@
+c:\users\djmat\documents\visual studio 2017\Projects\Extrator_de_dados\Extrator_de_dados\bin\Debug\Extrator_de_dados.exe.config
+c:\users\djmat\documents\visual studio 2017\Projects\Extrator_de_dados\Extrator_de_dados\bin\Debug\Extrator_de_dados.exe
+c:\users\djmat\documents\visual studio 2017\Projects\Extrator_de_dados\Extrator_de_dados\bin\Debug\Extrator_de_dados.pdb
+c:\users\djmat\documents\visual studio 2017\Projects\Extrator_de_dados\Extrator_de_dados\obj\Debug\Extrator_de_dados.csprojResolveAssemblyReference.cache
+c:\users\djmat\documents\visual studio 2017\Projects\Extrator_de_dados\Extrator_de_dados\obj\Debug\Extrator_de_dados.exe
+c:\users\djmat\documents\visual studio 2017\Projects\Extrator_de_dados\Extrator_de_dados\obj\Debug\Extrator_de_dados.pdb
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Extrator_de_dados\Extrator_de_dados\obj\Debug\Extrator_de_dados.csproj.CoreCompileInputs.cache

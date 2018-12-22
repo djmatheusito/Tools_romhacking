@@ -1,0 +1,11 @@
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\bin\Release\Jacutem Patch Tool.exe.config
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\bin\Release\Jacutem Patch Tool.exe
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\bin\Release\Jacutem Patch Tool.pdb
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\obj\Release\Jacutem_Patch_Tool.Form1.resources
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\obj\Release\Jacutem_Patch_Tool.Form2.resources
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\obj\Release\Jacutem_Patch_Tool.Properties.Resources.resources
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\obj\Release\Jacutem_Patch_Tool.Resource1.resources
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\obj\Release\Jacutem Patch Tool.csproj.GenerateResource.Cache
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\obj\Release\Jacutem Patch Tool.csproj.CoreCompileInputs.cache
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\obj\Release\Jacutem Patch Tool.exe
+C:\Users\djmat\source\repos\Jacutem Patch Tool\Jacutem Patch Tool\obj\Release\Jacutem Patch Tool.pdb

@@ -1,0 +1,7 @@
+C:\Users\djmat\source\repos\AADI\AADI\bin\Debug\AADI.exe.config
+C:\Users\djmat\source\repos\AADI\AADI\bin\Debug\AADI.exe
+C:\Users\djmat\source\repos\AADI\AADI\bin\Debug\AADI.pdb
+C:\Users\djmat\source\repos\AADI\AADI\obj\Debug\AADI.csprojResolveAssemblyReference.cache
+C:\Users\djmat\source\repos\AADI\AADI\obj\Debug\AADI.csproj.CoreCompileInputs.cache
+C:\Users\djmat\source\repos\AADI\AADI\obj\Debug\AADI.exe
+C:\Users\djmat\source\repos\AADI\AADI\obj\Debug\AADI.pdb
