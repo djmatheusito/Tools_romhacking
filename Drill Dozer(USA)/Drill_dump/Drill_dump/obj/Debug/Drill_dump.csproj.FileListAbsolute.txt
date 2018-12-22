@@ -1,0 +1,7 @@
+C:\Users\djmat\source\repos\Drill_dump\Drill_dump\bin\Debug\Drill_dump.exe.config
+C:\Users\djmat\source\repos\Drill_dump\Drill_dump\bin\Debug\Drill_dump.exe
+C:\Users\djmat\source\repos\Drill_dump\Drill_dump\bin\Debug\Drill_dump.pdb
+C:\Users\djmat\source\repos\Drill_dump\Drill_dump\obj\Debug\Drill_dump.csprojResolveAssemblyReference.cache
+C:\Users\djmat\source\repos\Drill_dump\Drill_dump\obj\Debug\Drill_dump.csproj.CoreCompileInputs.cache
+C:\Users\djmat\source\repos\Drill_dump\Drill_dump\obj\Debug\Drill_dump.exe
+C:\Users\djmat\source\repos\Drill_dump\Drill_dump\obj\Debug\Drill_dump.pdb

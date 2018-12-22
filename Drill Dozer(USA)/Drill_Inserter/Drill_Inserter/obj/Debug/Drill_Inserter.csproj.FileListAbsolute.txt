@@ -1,0 +1,7 @@
+C:\Users\djmat\source\repos\Drill_Inserter\Drill_Inserter\bin\Debug\Drill_Inserter.exe.config
+C:\Users\djmat\source\repos\Drill_Inserter\Drill_Inserter\bin\Debug\Drill_Inserter.exe
+C:\Users\djmat\source\repos\Drill_Inserter\Drill_Inserter\bin\Debug\Drill_Inserter.pdb
+C:\Users\djmat\source\repos\Drill_Inserter\Drill_Inserter\obj\Debug\Drill_Inserter.csprojResolveAssemblyReference.cache
+C:\Users\djmat\source\repos\Drill_Inserter\Drill_Inserter\obj\Debug\Drill_Inserter.csproj.CoreCompileInputs.cache
+C:\Users\djmat\source\repos\Drill_Inserter\Drill_Inserter\obj\Debug\Drill_Inserter.exe
+C:\Users\djmat\source\repos\Drill_Inserter\Drill_Inserter\obj\Debug\Drill_Inserter.pdb
