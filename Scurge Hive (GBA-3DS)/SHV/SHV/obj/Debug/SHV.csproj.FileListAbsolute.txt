@@ -1,0 +1,7 @@
+C:\Users\djmat\source\repos\SHV\SHV\bin\Debug\SHV.exe.config
+C:\Users\djmat\source\repos\SHV\SHV\bin\Debug\SHV.exe
+C:\Users\djmat\source\repos\SHV\SHV\bin\Debug\SHV.pdb
+C:\Users\djmat\source\repos\SHV\SHV\obj\Debug\SHV.csprojResolveAssemblyReference.cache
+C:\Users\djmat\source\repos\SHV\SHV\obj\Debug\SHV.csproj.CoreCompileInputs.cache
+C:\Users\djmat\source\repos\SHV\SHV\obj\Debug\SHV.exe
+C:\Users\djmat\source\repos\SHV\SHV\obj\Debug\SHV.pdb
