@@ -1,0 +1,7 @@
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_rePac\Cold_rePac\bin\Debug\Cold_rePac.exe.config
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_rePac\Cold_rePac\bin\Debug\Cold_rePac.exe
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_rePac\Cold_rePac\bin\Debug\Cold_rePac.pdb
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_rePac\Cold_rePac\obj\Debug\Cold_rePac.csprojResolveAssemblyReference.cache
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_rePac\Cold_rePac\obj\Debug\Cold_rePac.csproj.CoreCompileInputs.cache
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_rePac\Cold_rePac\obj\Debug\Cold_rePac.exe
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_rePac\Cold_rePac\obj\Debug\Cold_rePac.pdb

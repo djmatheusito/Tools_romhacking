@@ -1,0 +1,7 @@
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_unPAC\Cold_unPAC\bin\Debug\Cold_unPAC.exe.config
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_unPAC\Cold_unPAC\bin\Debug\Cold_unPAC.exe
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_unPAC\Cold_unPAC\bin\Debug\Cold_unPAC.pdb
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_unPAC\Cold_unPAC\obj\Debug\Cold_unPAC.csprojResolveAssemblyReference.cache
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_unPAC\Cold_unPAC\obj\Debug\Cold_unPAC.csproj.CoreCompileInputs.cache
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_unPAC\Cold_unPAC\obj\Debug\Cold_unPAC.exe
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_unPAC\Cold_unPAC\obj\Debug\Cold_unPAC.pdb
