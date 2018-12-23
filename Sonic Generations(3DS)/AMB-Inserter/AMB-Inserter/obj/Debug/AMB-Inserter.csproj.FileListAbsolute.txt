@@ -1,0 +1,7 @@
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\AMB-Inserter\AMB-Inserter\obj\Debug\AMB-Inserter.csprojResolveAssemblyReference.cache
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\AMB-Inserter\AMB-Inserter\bin\Debug\AMB-Inserter.exe.config
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\AMB-Inserter\AMB-Inserter\bin\Debug\AMB-Inserter.exe
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\AMB-Inserter\AMB-Inserter\bin\Debug\AMB-Inserter.pdb
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\AMB-Inserter\AMB-Inserter\obj\Debug\AMB-Inserter.exe
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\AMB-Inserter\AMB-Inserter\obj\Debug\AMB-Inserter.pdb
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\AMB-Inserter\AMB-Inserter\obj\Debug\AMB-Inserter.csproj.CoreCompileInputs.cache

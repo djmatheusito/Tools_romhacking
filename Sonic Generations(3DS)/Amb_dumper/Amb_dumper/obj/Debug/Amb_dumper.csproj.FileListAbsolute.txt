@@ -1,0 +1,6 @@
+c:\users\djmat\documents\visual studio 2017\Projects\Amb_dumper\Amb_dumper\bin\Debug\Amb_dumper.exe.config
+c:\users\djmat\documents\visual studio 2017\Projects\Amb_dumper\Amb_dumper\bin\Debug\Amb_dumper.exe
+c:\users\djmat\documents\visual studio 2017\Projects\Amb_dumper\Amb_dumper\bin\Debug\Amb_dumper.pdb
+c:\users\djmat\documents\visual studio 2017\Projects\Amb_dumper\Amb_dumper\obj\Debug\Amb_dumper.csprojResolveAssemblyReference.cache
+c:\users\djmat\documents\visual studio 2017\Projects\Amb_dumper\Amb_dumper\obj\Debug\Amb_dumper.exe
+c:\users\djmat\documents\visual studio 2017\Projects\Amb_dumper\Amb_dumper\obj\Debug\Amb_dumper.pdb

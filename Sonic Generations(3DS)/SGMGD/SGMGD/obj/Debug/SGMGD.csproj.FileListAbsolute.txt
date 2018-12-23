@@ -1,0 +1,7 @@
+c:\Users\djmat\source\repos\SGMGD\SGMGD\bin\Debug\SGMGD.exe.config
+c:\Users\djmat\source\repos\SGMGD\SGMGD\bin\Debug\SGMGD.exe
+c:\Users\djmat\source\repos\SGMGD\SGMGD\bin\Debug\SGMGD.pdb
+c:\Users\djmat\source\repos\SGMGD\SGMGD\obj\Debug\SGMGD.csprojResolveAssemblyReference.cache
+c:\Users\djmat\source\repos\SGMGD\SGMGD\obj\Debug\SGMGD.csproj.CoreCompileInputs.cache
+c:\Users\djmat\source\repos\SGMGD\SGMGD\obj\Debug\SGMGD.exe
+c:\Users\djmat\source\repos\SGMGD\SGMGD\obj\Debug\SGMGD.pdb

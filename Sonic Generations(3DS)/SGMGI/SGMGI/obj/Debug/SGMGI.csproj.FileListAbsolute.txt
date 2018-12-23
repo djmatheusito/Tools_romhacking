@@ -1,0 +1,7 @@
+c:\users\djmat\source\repos\SGMGI\SGMGI\bin\Debug\SGMGI.exe.config
+c:\users\djmat\source\repos\SGMGI\SGMGI\bin\Debug\SGMGI.exe
+c:\users\djmat\source\repos\SGMGI\SGMGI\bin\Debug\SGMGI.pdb
+c:\users\djmat\source\repos\SGMGI\SGMGI\obj\Debug\SGMGI.csprojResolveAssemblyReference.cache
+c:\users\djmat\source\repos\SGMGI\SGMGI\obj\Debug\SGMGI.csproj.CoreCompileInputs.cache
+c:\users\djmat\source\repos\SGMGI\SGMGI\obj\Debug\SGMGI.exe
+c:\users\djmat\source\repos\SGMGI\SGMGI\obj\Debug\SGMGI.pdb
