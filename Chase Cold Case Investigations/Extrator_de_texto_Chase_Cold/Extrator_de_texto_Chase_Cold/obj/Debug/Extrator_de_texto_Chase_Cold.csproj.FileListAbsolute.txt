@@ -1,0 +1,7 @@
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Extrator_de_texto_Chase_Cold\Extrator_de_texto_Chase_Cold\bin\Debug\Extrator_de_texto_Chase_Cold.exe.config
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Extrator_de_texto_Chase_Cold\Extrator_de_texto_Chase_Cold\bin\Debug\Extrator_de_texto_Chase_Cold.exe
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Extrator_de_texto_Chase_Cold\Extrator_de_texto_Chase_Cold\bin\Debug\Extrator_de_texto_Chase_Cold.pdb
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Extrator_de_texto_Chase_Cold\Extrator_de_texto_Chase_Cold\obj\Debug\Extrator_de_texto_Chase_Cold.csprojResolveAssemblyReference.cache
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Extrator_de_texto_Chase_Cold\Extrator_de_texto_Chase_Cold\obj\Debug\Extrator_de_texto_Chase_Cold.csproj.CoreCompileInputs.cache
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Extrator_de_texto_Chase_Cold\Extrator_de_texto_Chase_Cold\obj\Debug\Extrator_de_texto_Chase_Cold.exe
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Extrator_de_texto_Chase_Cold\Extrator_de_texto_Chase_Cold\obj\Debug\Extrator_de_texto_Chase_Cold.pdb

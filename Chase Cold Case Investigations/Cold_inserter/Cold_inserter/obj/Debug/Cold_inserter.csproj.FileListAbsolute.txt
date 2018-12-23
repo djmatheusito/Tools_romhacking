@@ -1,0 +1,7 @@
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_inserter\Cold_inserter\bin\Debug\Cold_inserter.exe.config
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_inserter\Cold_inserter\bin\Debug\Cold_inserter.exe
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_inserter\Cold_inserter\bin\Debug\Cold_inserter.pdb
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_inserter\Cold_inserter\obj\Debug\Cold_inserter.csprojResolveAssemblyReference.cache
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_inserter\Cold_inserter\obj\Debug\Cold_inserter.csproj.CoreCompileInputs.cache
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_inserter\Cold_inserter\obj\Debug\Cold_inserter.exe
+C:\Users\djmat\Documents\Visual Studio 2017\Projects\Cold_inserter\Cold_inserter\obj\Debug\Cold_inserter.pdb
