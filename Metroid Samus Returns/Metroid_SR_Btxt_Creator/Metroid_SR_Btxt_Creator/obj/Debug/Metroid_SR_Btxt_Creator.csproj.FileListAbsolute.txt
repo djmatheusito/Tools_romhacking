@@ -1,0 +1,7 @@
+C:\Users\djmat\source\repos\Metroid_SR_Btxt_Creator\Metroid_SR_Btxt_Creator\bin\Debug\Metroid_SR_Btxt_Creator.exe.config
+C:\Users\djmat\source\repos\Metroid_SR_Btxt_Creator\Metroid_SR_Btxt_Creator\bin\Debug\Metroid_SR_Btxt_Creator.exe
+C:\Users\djmat\source\repos\Metroid_SR_Btxt_Creator\Metroid_SR_Btxt_Creator\bin\Debug\Metroid_SR_Btxt_Creator.pdb
+C:\Users\djmat\source\repos\Metroid_SR_Btxt_Creator\Metroid_SR_Btxt_Creator\obj\Debug\Metroid_SR_Btxt_Creator.csprojResolveAssemblyReference.cache
+C:\Users\djmat\source\repos\Metroid_SR_Btxt_Creator\Metroid_SR_Btxt_Creator\obj\Debug\Metroid_SR_Btxt_Creator.csproj.CoreCompileInputs.cache
+C:\Users\djmat\source\repos\Metroid_SR_Btxt_Creator\Metroid_SR_Btxt_Creator\obj\Debug\Metroid_SR_Btxt_Creator.exe
+C:\Users\djmat\source\repos\Metroid_SR_Btxt_Creator\Metroid_SR_Btxt_Creator\obj\Debug\Metroid_SR_Btxt_Creator.pdb

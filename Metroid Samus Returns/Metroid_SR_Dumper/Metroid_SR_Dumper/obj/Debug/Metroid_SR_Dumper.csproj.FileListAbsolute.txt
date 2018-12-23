@@ -1,0 +1,7 @@
+C:\Users\djmat\source\repos\Metroid_SR_Dumper\Metroid_SR_Dumper\bin\Debug\Metroid_SR_Dumper.exe.config
+C:\Users\djmat\source\repos\Metroid_SR_Dumper\Metroid_SR_Dumper\bin\Debug\Metroid_SR_Dumper.exe
+C:\Users\djmat\source\repos\Metroid_SR_Dumper\Metroid_SR_Dumper\bin\Debug\Metroid_SR_Dumper.pdb
+C:\Users\djmat\source\repos\Metroid_SR_Dumper\Metroid_SR_Dumper\obj\Debug\Metroid_SR_Dumper.csprojResolveAssemblyReference.cache
+C:\Users\djmat\source\repos\Metroid_SR_Dumper\Metroid_SR_Dumper\obj\Debug\Metroid_SR_Dumper.csproj.CoreCompileInputs.cache
+C:\Users\djmat\source\repos\Metroid_SR_Dumper\Metroid_SR_Dumper\obj\Debug\Metroid_SR_Dumper.exe
+C:\Users\djmat\source\repos\Metroid_SR_Dumper\Metroid_SR_Dumper\obj\Debug\Metroid_SR_Dumper.pdb
